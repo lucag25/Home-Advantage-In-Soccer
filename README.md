@@ -1,2 +1,5 @@
 # Home-Advantage-In-Soccer
-Home Advantage in Soccer: Data Analysis &amp; Predictive Modeling (EDA &amp; ML)
+
+In the Modeling project, we build directly on the findings from the EDA, where we analyzed home field advantage in English Premier League soccer matches. While the first project focused primarily on describing patterns and testing statistical differences between home and away teams, the goal of this project is to move one step further and evaluate whether those patterns can be used to predict match outcomes. Using the same dataset, we develop and compare two predictive models: a logistic regression model and a classification tree model.
+
+Both models rely on commonly recorded in-game statistics such as shots, shots on target, corners, and disciplinary actions. These variables capture different aspects of match performance and provide a natural starting point for predictive modeling. By evaluating model performance on a held-out test set, we assess how well these statistics explain match results and highlight the strengths and limitations of each modeling approach.
